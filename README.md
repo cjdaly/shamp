@@ -2,7 +2,7 @@ There are a lot of raw circuit board hacker/prototype devices with headphone jac
 Devices to [play songs](https://www.sparkfun.com/products/11029),
 to [speak words](https://www.sparkfun.com/products/11711),
 to [analyze sounds](https://www.sparkfun.com/products/10306),
-and similar devices for other audio applications.
+and [many similar devices](https://github.com/cjdaly/shamp/wiki/SimpleAudioParts) for other audio applications.
 
 I wanted to build a system that mixed the outputs of several of these devices.
 I looked for a simple 'Sparkfun-class' audio mixer without success.
