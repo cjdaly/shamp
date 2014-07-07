@@ -16,7 +16,7 @@ Here are some things I did find:
 
 After reading the Instructables article linked above, I looked for a set of parts that I could use to build something like the Altoids tin mixer.  One key piece I found is the [Papilio Audio Wing](https://www.sparkfun.com/products/11568) which has 2 audio jacks, seemingly resonable resistors, and breakouts for the [TRS](http://en.wikipedia.org/wiki/Phone_connector_(audio)) audio wires. I combined this with several other Sparkfun parts to produce my first working SHAMP device.
 
-Wiki Pages
+### Wiki Pages
 
 * [SHAMP Model 1](https://github.com/cjdaly/shamp/wiki/Model-1)
 * [List of hacker audio parts](https://github.com/cjdaly/shamp/wiki/SimpleAudioParts)
