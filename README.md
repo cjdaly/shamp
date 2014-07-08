@@ -23,4 +23,4 @@ After reading the Instructables article linked above, I looked for a set of part
 * [List of audio hacker devices](https://github.com/cjdaly/shamp/wiki/SimpleAudioParts)
 * [SHAMP Model 1](https://github.com/cjdaly/shamp/wiki/Model-1)
   * [parts list](https://github.com/cjdaly/shamp/wiki/Model-1-Parts) 
-
+  * [construction steps](https://github.com/cjdaly/shamp/wiki/Model-1-Construction) 
