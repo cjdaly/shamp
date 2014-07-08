@@ -16,7 +16,7 @@ Here are some things I did find:
 * [failed Kickstarter](https://www.kickstarter.com/projects/pepperdecks/pepperdecks-djoclate-ii-pocket-size-music-mixer-0) - simple with nice finish
 * [Instructables DIY project](http://www.instructables.com/id/Altoids-Tin-18-Stereo-Mixer/?ALLSTEPS) - classic Altoids tin casing
 
-After reading the Instructables article linked above, I looked for a set of parts that I could use to build something like the Altoids tin mixer.  One key piece I found is the [Papilio Audio Wing](https://www.sparkfun.com/products/11568) which has 2 audio jacks, seemingly resonable resistors, and breakouts for the [TRS](http://en.wikipedia.org/wiki/Phone_connector_(audio)) audio wires. I combined this with several other Sparkfun parts to produce my first working SHAMP device.
+After reading the Instructables article linked above, I looked for a set of parts that I could use to build something like the Altoids tin mixer.  One key piece I found is the [Papilio Audio Wing](https://www.sparkfun.com/products/11568) which has 2 audio jacks, seemingly reasonable resistors, and breakouts for the [TRS](http://en.wikipedia.org/wiki/Phone_connector_(audio)) audio wires. I combined this with several other Sparkfun parts to produce my first working SHAMP device.
 
 ### Wiki Pages
 
