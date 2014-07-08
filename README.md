@@ -1,3 +1,5 @@
+![SHAMP Model 1](https://github.com/cjdaly/shamp/wiki/images/shamp-finishing-2.JPG)
+
 There are a lot of raw circuit board hacker/prototype devices with headphone jack audio outputs.
 Devices to [play songs](https://www.sparkfun.com/products/11029),
 to [speak words](https://www.sparkfun.com/products/11711),
