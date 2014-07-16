@@ -7,7 +7,7 @@ Shown below is the [SHAMP Model 1](https://github.com/cjdaly/shamp/wiki/Model-1)
 There are a lot of raw circuit board hacker/prototype devices with headphone jack audio outputs.
 Devices to [play songs](https://www.sparkfun.com/products/11029),
 to [speak words](https://www.sparkfun.com/products/11711),
-to [analyze sounds](https://www.sparkfun.com/products/10306),
+to [synthesize sounds](https://www.sparkfun.com/products/10587),
 and [many similar devices](https://github.com/cjdaly/shamp/wiki/SimpleAudioParts) for numerous audio applications.
 
 I wanted to build a system that mixed the outputs of several of these devices.
